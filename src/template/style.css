@@ -1,0 +1,31 @@
+.template {
+    height: 100%;
+}
+
+.template .template__header {
+  background-color: #fff;
+  padding: 5px 20px;
+}
+
+.template .template__logo {
+    width: 100px;
+    height: auto;
+    margin-right: auto;
+}
+
+.template .template__logo img {
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+}
+
+
+/* OVERRIDE  */
+.template .ant-layout-header {
+    background-color: transparent;
+}
+
+.dcorp-logo {
+    width: 100px;
+    height: 100px;
+}

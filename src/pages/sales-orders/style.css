@@ -1,0 +1,21 @@
+.sales-orders .sales-orders__actions {
+    display: flex;
+    justify-content: end;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.table-actions {
+    display: flex;
+    gap: 4px;
+}
+
+.modal-add-so {
+    display: flex;
+    justify-content: end;
+    align-content: end;
+}
+
+.sales-orders .ant-table {
+    overflow: auto;
+}

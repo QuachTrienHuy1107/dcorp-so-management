@@ -1,0 +1,230 @@
+{
+    "product-categories": [
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Phần cứng",
+            "description": "phan cung",
+            "code": "phan_cung",
+            "detleted": false
+        },
+        {
+            "id": "2",
+            "name": "Phần mềm",
+            "description": "phan mem",
+            "code": "phan_mem",
+            "detleted": false
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "name": "produc 1"
+        },
+        {
+            "id": "acd1",
+            "name": "2",
+            "description": "3"
+        },
+        {
+            "id": "e35e",
+            "name": "3",
+            "description": "3",
+            "code": "1"
+        }
+    ],
+    "stores": [
+        {
+            "id": "1",
+            "name": "Dcorp child",
+            "description": "dcorp child",
+            "code": "dcorp_child",
+            "address": "12/4 Hoàng Hoa Thám quận bình thạnh",
+            "companyName": "Dcorp child",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp child",
+            "description": "dcorp child",
+            "code": "dcorp_child",
+            "address": "12/4 Hoàng Hoa Thám quận bình thạnh",
+            "companyName": "Dcorp child",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp child",
+            "description": "dcorp child",
+            "code": "dcorp_child",
+            "address": "12/4 Hoàng Hoa Thám quận bình thạnh",
+            "companyName": "Dcorp child",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp child",
+            "description": "dcorp child",
+            "code": "dcorp_child",
+            "address": "12/4 Hoàng Hoa Thám quận bình thạnh",
+            "companyName": "Dcorp child",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp child",
+            "description": "dcorp child",
+            "code": "dcorp_child",
+            "address": "12/4 Hoàng Hoa Thám quận bình thạnh",
+            "companyName": "Dcorp child",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp child",
+            "description": "dcorp child",
+            "code": "dcorp_child",
+            "address": "12/4 Hoàng Hoa Thám quận bình thạnh",
+            "companyName": "Dcorp child",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp child",
+            "description": "dcorp child",
+            "code": "dcorp_child",
+            "address": "12/4 Hoàng Hoa Thám quận bình thạnh",
+            "companyName": "Dcorp child",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp child",
+            "description": "dcorp child",
+            "code": "dcorp_child",
+            "address": "12/4 Hoàng Hoa Thám quận bình thạnh",
+            "companyName": "Dcorp child",
+            "detleted": false
+        }
+    ],
+    "companies": [
+        {
+            "id": "1",
+            "name": "Dcorp",
+            "description": "dcorp",
+            "code": "dcorp",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp",
+            "description": "dcorp",
+            "code": "dcorp",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp",
+            "description": "dcorp",
+            "code": "dcorp",
+            "detleted": false
+        },
+        {
+            "id": "1",
+            "name": "Dcorp",
+            "description": "dcorp",
+            "code": "dcorp",
+            "detleted": false
+        }
+    ],
+    "sales-orders": [
+        {
+            "productId": "1",
+            "companyId": "1",
+            "storeId": "1",
+            "quantity": "3",
+            "price": 30000,
+            "tax": 10,
+            "discount": 10,
+            "amount": 99000,
+            "id": "1"
+        }
+    ],
+    "reports": [
+        {
+            "productId": "1",
+            "companyId": "1",
+            "storeId": "1",
+            "quantity": "3"
+        }
+    ]
+}

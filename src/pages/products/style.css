@@ -1,0 +1,11 @@
+.products .products__actions {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.table-actions {
+    display: flex;
+    gap: 4px;
+}
